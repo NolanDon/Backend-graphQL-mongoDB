@@ -1,6 +1,4 @@
-# Backend-graphQL-mongoDB
-backend-mongo-graphQL
-
+# Backend with mongoDB cluster
 
 ## 1. Create MongoDB cluster add url to databaseConnection.js
 
